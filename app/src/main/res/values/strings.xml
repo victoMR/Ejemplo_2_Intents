@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejemplo 2 Intents</string>
+    <string name="tvNombre">Nombre:</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="tvSaludo">Hola 😊</string>
+    <string name="btnVolver">Volver</string>
+</resources>
